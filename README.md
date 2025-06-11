@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
-<h1 align="center">Well, Hello There1 👋, I'm Mj</h1>
+<h1 align="center">Well, Hello There! 👋, I'm Mj</h1>
 <h3 align="center">🚀 Cloud Enthusiast | 🔡️ Cybersecurity Explorer | 🧠 Data Scientist | 🛠️ Systems Architect | 💻 DevOps Engineer</h3>
 
 ---
@@ -79,6 +79,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbjethwa&theme=tokyonight" width="48%" />
 </p>
 
+<!--  
+
 ---
 
 ### 🧠 Certifications
@@ -108,6 +110,8 @@
 * ☁️ Multi-cloud orchestration using Terraform + Kubernetes
 
 ---
+
+-->
 
 ### 🧱️ Contribution Graph
 
