@@ -118,37 +118,6 @@
 
 ---
 
-### 👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbjethwa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🌟 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mbjethwa&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📃 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎥 YouTube / Talks
-
-<p align="center">
-  <a href="https://www.youtube.com/@YOURCHANNEL">
-    <img alt="YouTube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
 
 ---
 
