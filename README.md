@@ -1,127 +1,118 @@
-<!-- Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=220&section=header&text=Hey%2C%20I'm%20Mj%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Linux%20Infrastructure%20%7C%20Cloud%20%7C%20Open-Source%20Builder&descFontColor=aaaaff&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Mj%20Jethwa&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=I%20build%20things%20that%20actually%20work%20on%20a%20Friday%20night.&descFontColor=ccccff&descSize=16&descAlignY=75" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mbjethwa/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:m.jethwa221@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mbjethwa.me" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-0a0a23?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/mbjethwa/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:m.jethwa221@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://mbjethwa.me"><img src="https://img.shields.io/badge/-mbjethwa.me-0a0a23?style=flat-square&logo=firefox&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-### 💡 Who I Am
-
-I'm Mayur — an infrastructure engineer with **4+ years of enterprise-level systems experience**, a Linux-first mindset, and a deep preference for open-source over proprietary lock-in.
-
-My background spans datacenter operations, cloud architecture, automation, and security — built hands-on at Wipro (Dell EMC partner) across 100+ server environments, and sharpened further in cloud and data roles at Seneca Polytechnic.
-
-Right now, I'm focused on two things:
-
-- 🐧 **Going deep on Linux** — working toward RHCSA to round out on-premise expertise alongside my cloud skills
-- 🏗️ **Building an open-source managed services practice** for Toronto's small business community — because most SMBs deserve better infrastructure than what they're getting
-
-> *I believe the best infrastructure is the kind you actually understand — and can explain to your client at 2am.*
+```
+  ██████╗ ███████╗███████╗███████╗    ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
+  ██╔══██╗██╔════╝██╔════╝██╔════╝    ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
+  ██║  ██║█████╗  █████╗  ██████╗     ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝ 
+  ██║  ██║██╔══╝  ██╔══╝  ╚════██║    ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗ 
+  ██████╔╝███████╗███████╗███████║    ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗
+  ╚═════╝ ╚══════╝╚══════╝╚══════╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
 ---
 
-### 🛠️ Tech Toolbox
+## `$ whoami`
 
-#### 🐧 Linux & Systems
+> Infrastructure engineer. Open-source advocate. Recovering perfectionist.
 
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+4+ years hardening enterprise systems by day, breaking and rebuilding things in labs by night. I've kept 100+ servers alive at a Dell EMC partner, built analytics pipelines that cut reporting time by 40%, and currently shipping a full-stack platform on Oracle Cloud for a live production environment.
 
-#### ☁️ Cloud Platforms
+I prefer **Linux over everything**, **open-source over lock-in**, and **understanding a system** over just deploying it.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+Currently going deep on on-premise Linux — working toward **RHCSA** to round out what the cloud certs don't cover.
 
-#### ⚙️ DevOps & Automation
+<br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+## `$ ls ./skills`
 
-#### 🔐 Security & Networking
+| Domain | Stack |
+|---|---|
+| 🐧 **Linux & Systems** | RHEL · Ubuntu · CentOS · VMware ESXi · Hyper-V · Windows Server |
+| ☁️ **Cloud** | AWS (SAA-C03) · Oracle Cloud · Azure · GCP |
+| ⚙️ **Automation** | Bash · Python · Ansible · Terraform · GitHub Actions |
+| 📦 **Containers** | Docker · Traefik · CI/CD pipelines |
+| 🔐 **Security** | Wireshark · Nmap · Nessus · IDS/IPS · VPN · TLS/SSL |
+| 🗄️ **Data** | PostgreSQL · MySQL · SQL · Power BI · ETL |
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logo=tenable&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<br/>
 
-#### 🗄️ Data & Databases
+## `$ cat ./projects`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🔄 StoX — Live Workflow Management Platform
+> *Production · Full-Stack · Oracle Cloud · Built with Aramark Canada*
 
----
+Real inventory and workflow visibility for university food service ops. No spreadsheets. No chaos.
 
-### 🏗️ Featured Projects
+- FastAPI + PostgreSQL backend, Docker + Traefik for containerized deployment
+- React interface with real-time stock visibility and approval pipelines
+- Computer vision for camera-based item tracking — because why type when you can scan
+- RBAC, TLS encryption, audit logging baked in from day one
+- CI/CD pipelines for multi-site scalability
 
-#### 🔄 StoX — Live Workflow Management Platform *(Capstone · Active)*
-> Full-stack inventory and operations platform deployed on Oracle Cloud for Aramark Canada's UTSC food service operations.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-- **Backend:** FastAPI + PostgreSQL, containerized via Docker with Traefik reverse proxy
-- **Frontend:** React web + mobile interface for real-time stock and approval visibility
-- **Security:** RBAC, TLS-encrypted API traffic, audit logging
-- **Bonus:** Computer vision integration for camera-based item tracking
-- **DevOps:** CI/CD pipelines, deployment scripting, container orchestration for multi-site scale
+<br/>
 
-#### 🖥️ MSP Lab — Self-Hosted Open-Source Infrastructure *(Ongoing)*
-> Homelab-style MSP tooling stack running on Oracle Cloud free tier — building production-grade, open-source service delivery infrastructure.
+## `$ cat ./certifications`
 
-- 4 VMs across 2 OCI accounts — always-free tier, zero infrastructure cost
-- Self-hosted monitoring, ticketing, and remote management tooling
-- Designed around real SMB managed service delivery workflows
-- Foundation for productized Linux/cloud support offerings
+```yaml
+certifications:
+  - name: AWS Solutions Architect – Associate
+    issuer: Amazon Web Services
+    status: ✅ Active
 
----
+  - name: Certified in Cybersecurity (CC)
+    issuer: ISC2
+    status: ✅ Active
 
-### 📜 Certifications
+  - name: GitHub Foundations
+    issuer: GitHub / Microsoft
+    status: ✅ Active
 
-| Certification | Provider | Status |
-|---|---|---|
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ 2025 |
-| Certified in Cybersecurity (CC) | ISC2 | ✅ 2025 |
-| GitHub Foundations | GitHub / Microsoft | ✅ 2025 |
-| Red Hat Certified System Administrator (RHCSA) | Red Hat | 🔄 In Progress |
+  - name: Red Hat Certified System Administrator
+    issuer: Red Hat
+    status: 🔄 In Progress
+```
 
----
+<br/>
 
-### 📈 GitHub Stats
+## `$ git log --oneline`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbjethwa&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbjethwa&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mbjethwa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbjethwa&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
----
-
-### 🧱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbjethwa&theme=tokyo-night" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbjethwa&theme=tokyo-night&hide_border=true" width="96%" />
 </p>
+
+<br/>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a23&height=150&section=footer" />
+  <i>Open to infrastructure, cloud, and DevOps roles — and always up for a good systems conversation.</i><br/>
+  <i>If your stack runs on Linux and your team argues about tabs vs spaces, we'll get along.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
 </p>
