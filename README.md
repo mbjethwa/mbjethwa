@@ -13,14 +13,9 @@
 
 <br/>
 
-```
-  ██████╗ ███████╗███████╗███████╗    ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
-  ██╔══██╗██╔════╝██╔════╝██╔════╝    ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
-  ██║  ██║█████╗  █████╗  ██████╗     ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝ 
-  ██║  ██║██╔══╝  ██╔══╝  ╚════██║    ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗ 
-  ██████╔╝███████╗███████╗███████║    ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗
-  ╚═════╝ ╚══════╝╚══════╝╚══════╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AAAAFF&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer;Open-Source+Advocate;Linux+%3E+Everything;Breaking+Things+in+Labs+Since+2019" alt="Typing SVG" />
+</p>
 
 ---
 
